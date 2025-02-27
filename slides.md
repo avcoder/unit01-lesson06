@@ -180,6 +180,7 @@ transition: slide-left
 # Exercise: Grids and Columns
 (remainder of time) Emulate stripe.com's hero page
 
+- see https://mdbcdn.b-cdn.net/wp-content/uploads/2016/01/grid.webp
 - Columns align to Bootstrap's grid
 - Goto: https://codepen.io/codevilla/pen/GgRNevw
 
