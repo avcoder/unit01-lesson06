@@ -177,9 +177,10 @@ class: text-left
 transition: slide-left
 ---
 
-# Exercise: Emulate stripe.com's hero page
-(remainder of time)
+# Exercise: Grids and Columns
+(remainder of time) Emulate stripe.com's hero page
 
+- Columns align to Bootstrap's grid
 - Goto: https://codepen.io/codevilla/pen/GgRNevw
 
 <!-- 
@@ -191,7 +192,8 @@ transition: slide-left
 
 ## For homework:
 
-- "Personal Website" assignment (aka Portfolio assignment) due Sun. Mar. 9 midnight EST
+- Be aware that learning this topic is just a start - real takeaway = constant learning, reading docs
+- "Personal Website" assignment (aka Portfolio assignment) due Sun. Mar. 9 midnight EST is part of the 20% of final grade
 - Reminder: try to complete class feedback survey every other week
 - Enter your anonymous lab questions [here](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
 
